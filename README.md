@@ -1,6 +1,5 @@
 # Hi, I'm **Lindsey Lasswell**! &#9995;
-
-##About Me;
+## About Me
 
 Improving user experiences with technology by creating intuitive data structure and design is my passion. For over 20 years, I have studied the ways
       people learn and interact with information. As a developer, I am dedicated to applying this to web development.

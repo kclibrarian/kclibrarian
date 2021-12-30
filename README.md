@@ -11,7 +11,7 @@ LaunchCode graduate with HTML, CSS, Java, Javascript, Angular, Spring, and SQL e
 
 
 
-    <ul>
+   <ul>
       <a href="https://docs.google.com/document/d/18oq8XR_t9gSLPPdZIcYlQQ7Nhbe1srWKFl3zYRV_ank/edit?usp=sharing">&#10036; Resume</a> <br>
       <a href="https://www.linkedin.com/in/llasswell/">&#10036; LinkedIn</a>
     </ul>

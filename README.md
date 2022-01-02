@@ -2,8 +2,9 @@
 
 # Hi, there! &#9995;
 ## About Me
+I like finding solutions and improving user experiences. When a site is done well, you rarely have to think about it. This is my passion-creating well-planned apps so you can enjoy the content.
 
-I like finding solutions and improving user experiences. When tech is done well, the user rarely has to think about it. This is the goal! I do the thinking so the user can enjoy the product. 
+For years, I designed sites for teachers and students in the library. I studied site architecture and usability with real-time user research groups and modified the front end to improve usability. Now, as a Full Stack Developer, I look forward to improving front and backend programs to create applications everyone enjoys using. 
 
 LaunchCode graduate with HTML, CSS, Java, Javascript, Angular, Spring, and SQL experience. 
 

@@ -10,14 +10,14 @@ For years, I designed sites for teachers and students in the library. I studied 
 LaunchCode graduate with HTML, CSS, React, Java, Javascript, Angular, Spring, and SQL experience. 
 
 <br>
-
-<img align="left" width="200" height="200" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
-
-
    <ul>
       <a href="https://docs.google.com/document/d/1EZRaRhToQ2cdHuT53qrAlrjwHFEnu315GehuxDlN-0Y/edit?usp=sharing">&#10036; Resume</a> <br>
       <a href="https://www.linkedin.com/in/llasswell/">&#10036; LinkedIn</a> <br>
       <a href="https://replit.com/@handfulofkeyz/">&#10036; Repl.it</a> <br>
     </ul>
+
+<img align="center" width="200" height="200" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
+
+
   </body>
 </html>

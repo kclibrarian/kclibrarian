@@ -8,7 +8,9 @@ I like finding solutions and improving user experiences. When a site is done wel
 For years, I designed sites for teachers and students in the library. I studied site architecture and usability with real-time user research groups and modified the front end to improve usability. Now, as a Full Stack Developer, I look forward to improving front and backend programs to create applications everyone enjoys using. 
 
 LaunchCode graduate with HTML, CSS, React, Java, Javascript, Angular, Spring, and SQL experience. 
-
+<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <br>
    <ul>
       <a href="https://docs.google.com/document/d/1EZRaRhToQ2cdHuT53qrAlrjwHFEnu315GehuxDlN-0Y/edit?usp=sharing">&#10036; Resume</a> <br>

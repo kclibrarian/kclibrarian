@@ -9,9 +9,6 @@ For years, I designed sites for teachers and students in the library. I studied 
 
 LaunchCode graduate with HTML, CSS, React, Java, Javascript, Angular, Spring, and SQL experience. 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <br>
    <ul>
       <a href="https://docs.google.com/document/d/1EZRaRhToQ2cdHuT53qrAlrjwHFEnu315GehuxDlN-0Y/edit?usp=sharing">&#10036; Resume</a> <br>

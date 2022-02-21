@@ -10,6 +10,13 @@ For years, I designed sites for teachers and students in the library. I studied 
 LaunchCode graduate with HTML, CSS, React, Java, Javascript, Angular, Spring, and SQL experience. 
 <br>
 <!--START_SECTION:waka-->
+```text
+JavaScript   2 hrs 52 mins   ████████████████████░░░░░   80.02 % 
+SCSS         27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+CSS          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+```
 <!--END_SECTION:waka-->
 <br>
    <ul>

@@ -9,6 +9,8 @@ For years, I designed sites for teachers and students in the library. I studied 
 
 LaunchCode graduate with HTML, CSS, React, Java, Javascript, Angular, Spring, and SQL experience. 
 <br>
+
+## What I've been up to the past week
 <!--START_SECTION:waka-->
 ```text
 JavaScript   4 hrs 32 mins   ████████████████████▓░░░░   82.94 % 

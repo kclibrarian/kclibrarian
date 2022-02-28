@@ -12,13 +12,15 @@ LaunchCode graduate with HTML, CSS, React, Java, Javascript, Angular, Spring, an
 
 ## What I've been up to the past week
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   6 hrs 30 mins   █████████████████████▒░░░   84.84 % 
-CSS          35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-SCSS         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+JavaScript   4 hrs 53 mins   ███████████████████▓░░░░░   78.03 %
+JSON         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+CSS          30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+HTML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
+
 <!--END_SECTION:waka-->
 <br>
    <ul>

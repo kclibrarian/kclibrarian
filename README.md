@@ -14,7 +14,8 @@ LaunchCode graduate with HTML, CSS, React, Java, Javascript, Angular, Spring, an
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   1 min           ████████████▓░░░░░░░░░░░░   51.22 %
+Solidity     1 min           ████████████▒░░░░░░░░░░░░   48.78 %
 ```
 
 <!--END_SECTION:waka-->

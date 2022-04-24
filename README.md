@@ -14,12 +14,11 @@ LaunchCode graduate with HTML, CSS, React, Java, Javascript, Angular, Spring, an
 <!--START_SECTION:waka-->
 
 ```text
-HTML         31 mins         ███████████░░░░░░░░░░░░░░   44.37 %
-JSON         17 mins         ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-Groovy       13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
-Properties   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Solidity     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+HTML         31 mins         ███████████▓░░░░░░░░░░░░░   46.05 %
+JSON         17 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
+Groovy       13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+Properties   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->

@@ -11,7 +11,7 @@ Tech Stack: React, Typescript, HTML, CSS, C#, AWS
 
 <br>
    <ul>
-      <a href="https://docs.google.com/document/d/1wr7qa0etNi_IUGI87CWw4JCBsPLfynAVVbtYyYGcUtA/edit?usp=sharing">; Resume</a> <br>
+      <a href="https://docs.google.com/document/d/1wr7qa0etNi_IUGI87CWw4JCBsPLfynAVVbtYyYGcUtA/edit?usp=sharing">&#10036; Resume</a> <br>
       <a href="https://www.linkedin.com/in/llasswell/">&#10036; LinkedIn</a> <br>
     </ul>
 
